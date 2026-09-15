@@ -45,7 +45,7 @@ plt.axhline(
 # Labels
 plt.xlabel("Trial")
 plt.ylabel("Density (g/mL)")
-plt.title("Density of Water at 23.5°C Using Graduate Cylinder")
+plt.title("Density of Water at 23.2°C Using Graduate Cylinder")
 
 # Make the differences easier to see
 plt.ylim(0.94, 1.00)
